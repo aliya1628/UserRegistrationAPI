@@ -1,0 +1,14 @@
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\bin\Debug\netcoreapp2.2\UserRegistrationAPI.deps.json
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\bin\Debug\netcoreapp2.2\UserRegistrationAPI.runtimeconfig.json
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\bin\Debug\netcoreapp2.2\UserRegistrationAPI.runtimeconfig.dev.json
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\bin\Debug\netcoreapp2.2\UserRegistrationAPI.dll
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\bin\Debug\netcoreapp2.2\UserRegistrationAPI.pdb
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.csprojAssemblyReference.cache
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.csproj.CoreCompileInputs.cache
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.RazorAssemblyInfo.cache
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.RazorAssemblyInfo.cs
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.AssemblyInfoInputs.cache
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.AssemblyInfo.cs
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.RazorTargetAssemblyInfo.cache
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.dll
+E:\Aliya\Practicals\Asp.net core demo\UserRegistrationAPI\UserRegistrationAPI\obj\Debug\netcoreapp2.2\UserRegistrationAPI.pdb
